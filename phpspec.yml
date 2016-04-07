@@ -1,0 +1,4 @@
+suites:
+    acme_suite:
+        namespace: Yos\PasswordGenerator
+        psr4_prefix: Yos\PasswordGenerator

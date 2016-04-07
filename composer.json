@@ -1,0 +1,21 @@
+{
+    "name": "Yos/PasswordGenerator",
+    "description": "Simple PHP package for aleviation of generating passwords",
+    "homepage": "https://github.com/yos-virtus/password_generator",
+    "license": "MIT",
+    "keywords": ["passwords", "password", "generator"],
+    "authors": [
+        {
+            "name": "Yos",
+            "email": "yos.virtus@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpspec/phpspec": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {"Yos\\PasswordGenerator\\": "src/"}
+    }
+}
