@@ -2,7 +2,7 @@
 
 namespace Yos\PasswordGenerator;
 
-class PasswordGeneratorService
+class PasswordGeneratorService implements PasswordGeneratorServiceInterface
 {
     /**
      * Character set to build password on
